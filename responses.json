@@ -1,0 +1,16 @@
+{
+    "LaunchRequest": 
+    {
+        "ask":"Welcome to Facts about Dr. T. What would you like to know?",
+        "reprompt": "What would you like to know?"
+    },
+    "AMAZON.HelpIntent":
+    {
+        "ask": "Here are some things you can say: What are her hobbies? Or What technologies is she familiar? What would you like to know?",
+        "reprompt": "What would you like to know?"
+    },
+    "AMAZON.StopIntent":
+    {
+        "tell": "Encouraging you to Embrace Your Mission! You are the hero who you've been waiting for! Get it done!"
+    }
+}
