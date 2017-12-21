@@ -67,15 +67,15 @@ diversity
 
 ## Sample Utterances
 ```
-GetDefinition what are her {Info}
-GetDefinition what are her {Info} things to do
-GetDefinition what is her {Info} background
-GetDefinition {Info} me
-GetDefinition what {Info} is she familiar
-GetDefinition how many {Info} does she have
-GetDefinition how long has she been {Info}
-GetDefinition what does her {Info} do for a living
-GetDefinition tell me about {Info}
-GetDefinition tell me about her {Info} end capstone
-GetDefinition tell me about how she encourages {Info} and inclusion
+GetInformation what are her {Info}
+GetInformation what are her {Info} things to do
+GetInformation what is her {Info} background
+GetInformation {Info} me
+GetInformation what {Info} is she familiar
+GetInformation how many {Info} does she have
+GetInformation how long has she been {Info}
+GetInformation what does her {Info} do for a living
+GetInformation tell me about {Info}
+GetInformation tell me about her {Info} end capstone
+GetInformation tell me about how she encourages {Info} and inclusion
 ```
