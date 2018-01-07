@@ -4,7 +4,7 @@ This is an Alexa Skill created for my Nashville Software School Demo Day.
 
 Users can ask Alexa phrases that will give information about me.
 
-# How to Interact with Alexa, Cape Wearing Mama:
+# How to Interact with Alexa, Dr. T:
 - Alexa, launch Dr. T.
 - Alexa, ask Dr. T What are her Hobbies?
 - Alexa, ask Dr. T What are her favorite things to do?
